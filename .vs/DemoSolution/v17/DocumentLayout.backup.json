@@ -1,0 +1,1020 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\dtos\\submitassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\dtos\\submitassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82998E2F-D9C9-4E75-89F0-F7DA0F215BF5}|Demo.tests\\Demo.tests.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo.tests\\authenticationtest\\authenticationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82998E2F-D9C9-4E75-89F0-F7DA0F215BF5}|Demo.tests\\Demo.tests.csproj|solutionrelative:demo.tests\\authenticationtest\\authenticationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\repository\\userrepo\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\repository\\userrepo\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82998E2F-D9C9-4E75-89F0-F7DA0F215BF5}|Demo.tests\\Demo.tests.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82998E2F-D9C9-4E75-89F0-F7DA0F215BF5}|Demo.tests\\Demo.tests.csproj|solutionrelative:demo.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\repository\\graderepo\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\repository\\graderepo\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\repository\\userrepo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\repository\\userrepo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\repository\\graderepo\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\repository\\graderepo\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\repository\\enrollmentrepository\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\repository\\enrollmentrepository\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\repository\\assignmentrepo\\iassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\repository\\assignmentrepo\\iassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\repository\\courserepo\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\repository\\courserepo\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\repository\\courserepo\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\repository\\courserepo\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\dtos\\enrollstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\dtos\\enrollstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\dtos\\assignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\dtos\\assignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\repository\\enrollmentrepository\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\repository\\enrollmentrepository\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\repository\\assignmentrepo\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\repository\\assignmentrepo\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\migrations\\20250703192337_jjdfsd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\migrations\\20250703192337_jjdfsd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\migrations\\20250704125046_agsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\migrations\\20250704125046_agsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250704124843_agsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250704124843_agsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250704124743_ags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250704124743_ags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250704103025_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250704103025_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\models\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\models\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\migrations\\20250703192337_jjdfsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\migrations\\20250703192337_jjdfsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703192041_jjdfsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250703192041_jjdfsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703190414_jjddss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250703190414_jjddss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703190140_jjd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250703190140_jjd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703190322_jjdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250703190322_jjdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703180219_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250703180219_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703180046_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250703180046_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703175731_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250703175731_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703174918_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250703174918_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\models\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\models\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629134529_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250629134529_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629134020_dddgf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250629134020_dddgf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629133852_dddgf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250629133852_dddgf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629133608_dddgf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250629133608_dddgf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629133537_dddg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250629133537_dddg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629133437_ddd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250629133437_ddd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629133121_Fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250629133121_Fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250622142234_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250622142234_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250622142007_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\Migrations\\20250622142007_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|c:\\users\\d.taiba\\source\\repos\\demosolution\\demo\\migrations\\20250704201810_fixsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6E9B54-7102-4084-8270-6FD212109CB7}|Demo\\Demo.csproj|solutionrelative:demo\\migrations\\20250704201810_fixsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationTest.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo.tests\\AuthenticationTest\\AuthenticationTest.cs",
+              "RelativeDocumentMoniker": "Demo.tests\\AuthenticationTest\\AuthenticationTest.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo.tests\\AuthenticationTest\\AuthenticationTest.cs",
+              "RelativeToolTip": "Demo.tests\\AuthenticationTest\\AuthenticationTest.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowEEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T22:38:23.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\UserRepo\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Demo\\Repository\\UserRepo\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\UserRepo\\UserRepository.cs",
+              "RelativeToolTip": "Demo\\Repository\\UserRepo\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:15:03.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\UserRepo\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Demo\\Repository\\UserRepo\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\UserRepo\\IUserRepository.cs",
+              "RelativeToolTip": "Demo\\Repository\\UserRepo\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:14:42.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAwF0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T12:20:13.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvx0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:37:33.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubmitAssignmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\DTOs\\SubmitAssignmentDTO.cs",
+              "RelativeDocumentMoniker": "Demo\\DTOs\\SubmitAssignmentDTO.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\DTOs\\SubmitAssignmentDTO.cs",
+              "RelativeToolTip": "Demo\\DTOs\\SubmitAssignmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:37:37.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGradeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\GradeRepo\\IGradeRepository.cs",
+              "RelativeDocumentMoniker": "Demo\\Repository\\GradeRepo\\IGradeRepository.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\GradeRepo\\IGradeRepository.cs",
+              "RelativeToolTip": "Demo\\Repository\\GradeRepo\\IGradeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:48:05.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo.tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Demo.tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo.tests\\UnitTest1.cs",
+              "RelativeToolTip": "Demo.tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T22:11:14.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GradeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\GradeRepo\\GradeRepository.cs",
+              "RelativeDocumentMoniker": "Demo\\Repository\\GradeRepo\\GradeRepository.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\GradeRepo\\GradeRepository.cs",
+              "RelativeToolTip": "Demo\\Repository\\GradeRepo\\GradeRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:48:20.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAkwL8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:20:31.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\EnrollmentRepository\\IEnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "Demo\\Repository\\EnrollmentRepository\\IEnrollmentRepository.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\EnrollmentRepository\\IEnrollmentRepository.cs",
+              "RelativeToolTip": "Demo\\Repository\\EnrollmentRepository\\IEnrollmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:06:03.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAssignmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\AssignmentRepo\\IAssignmentRepository.cs",
+              "RelativeDocumentMoniker": "Demo\\Repository\\AssignmentRepo\\IAssignmentRepository.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\AssignmentRepo\\IAssignmentRepository.cs",
+              "RelativeToolTip": "Demo\\Repository\\AssignmentRepo\\IAssignmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:34:29.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\CourseRepo\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "Demo\\Repository\\CourseRepo\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\CourseRepo\\ICourseRepository.cs",
+              "RelativeToolTip": "Demo\\Repository\\CourseRepo\\ICourseRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:16:13.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\CourseRepo\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Demo\\Repository\\CourseRepo\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\CourseRepo\\CourseRepository.cs",
+              "RelativeToolTip": "Demo\\Repository\\CourseRepo\\CourseRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:17:52.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:46:53.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T16:35:35.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssignmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\DTOs\\AssignmentDTO.cs",
+              "RelativeDocumentMoniker": "Demo\\DTOs\\AssignmentDTO.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\DTOs\\AssignmentDTO.cs",
+              "RelativeToolTip": "Demo\\DTOs\\AssignmentDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:39:16.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EnrollStudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\DTOs\\EnrollStudentDTO.cs",
+              "RelativeDocumentMoniker": "Demo\\DTOs\\EnrollStudentDTO.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\DTOs\\EnrollStudentDTO.cs",
+              "RelativeToolTip": "Demo\\DTOs\\EnrollStudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:18:47.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Demo\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T13:42:59.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:45:25.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20250704201810_fixSystem.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250704201810_fixSystem.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250704201810_fixSystem.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250704201810_fixSystem.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250704201810_fixSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:18:10.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\EnrollmentRepository\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "Demo\\Repository\\EnrollmentRepository\\EnrollmentRepository.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\EnrollmentRepository\\EnrollmentRepository.cs",
+              "RelativeToolTip": "Demo\\Repository\\EnrollmentRepository\\EnrollmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:06:47.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssignmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\AssignmentRepo\\AssignmentRepository.cs",
+              "RelativeDocumentMoniker": "Demo\\Repository\\AssignmentRepo\\AssignmentRepository.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Repository\\AssignmentRepo\\AssignmentRepository.cs",
+              "RelativeToolTip": "Demo\\Repository\\AssignmentRepo\\AssignmentRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:34:58.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250703192337_jjdfsd.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703192337_jjdfsd.Designer.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250703192337_jjdfsd.Designer.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703192337_jjdfsd.Designer.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250703192337_jjdfsd.Designer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAWwCIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T16:45:12.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Models\\Course.cs",
+              "RelativeToolTip": "Demo\\Models\\Course.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:45:56.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\DTOs\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "Demo\\DTOs\\CourseDTO.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\DTOs\\CourseDTO.cs",
+              "RelativeToolTip": "Demo\\DTOs\\CourseDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T19:14:46.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\context\\MyContext.cs",
+              "RelativeDocumentMoniker": "Demo\\context\\MyContext.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\context\\MyContext.cs",
+              "RelativeToolTip": "Demo\\context\\MyContext.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAjwEkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:38:48.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "loginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\DTOs\\loginDTO.cs",
+              "RelativeDocumentMoniker": "Demo\\DTOs\\loginDTO.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\DTOs\\loginDTO.cs",
+              "RelativeToolTip": "Demo\\DTOs\\loginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T13:53:27.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Demo\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "Demo\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:34:45.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Models\\User.cs",
+              "RelativeToolTip": "Demo\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T13:36:31.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Models\\Assignment.cs",
+              "RelativeToolTip": "Demo\\Models\\Assignment.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T13:48:19.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Models\\Grade.cs",
+              "RelativeToolTip": "Demo\\Models\\Grade.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T13:51:47.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Models\\Role.cs",
+              "RelativeToolTip": "Demo\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:07:13.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:09:43.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250704125046_agsg.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250704125046_agsg.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250704125046_agsg.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250704125046_agsg.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250704125046_agsg.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:50:46.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250704124743_ags.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250704124743_ags.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250704124743_ags.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250704124743_ags.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250704124743_ags.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:47:43.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250704124843_agsg.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250704124843_agsg.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250704124843_agsg.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250704124843_agsg.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250704124843_agsg.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:48:43.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250704103025_a.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250704103025_a.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250704103025_a.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250704103025_a.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250704103025_a.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:30:25.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Models\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Models\\JwtHelper.cs",
+              "RelativeToolTip": "Demo\\Models\\JwtHelper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:01:21.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250703192337_jjdfsd.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703192337_jjdfsd.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250703192337_jjdfsd.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703192337_jjdfsd.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250703192337_jjdfsd.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:23:37.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250703190414_jjddss.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703190414_jjddss.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250703190414_jjddss.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703190414_jjddss.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250703190414_jjddss.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:04:14.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250703190322_jjdd.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703190322_jjdd.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250703190322_jjdd.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703190322_jjdd.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250703190322_jjdd.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:03:22.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250703192041_jjdfsd.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703192041_jjdfsd.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250703192041_jjdfsd.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703192041_jjdfsd.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250703192041_jjdfsd.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:20:41.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250703190140_jjd.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703190140_jjd.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250703190140_jjd.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703190140_jjd.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250703190140_jjd.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:01:40.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250703180046_test2.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703180046_test2.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250703180046_test2.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703180046_test2.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250703180046_test2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:00:46.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250703174918_test2.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703174918_test2.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250703174918_test2.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703174918_test2.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250703174918_test2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:49:18.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250703180219_test2.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703180219_test2.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250703180219_test2.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703180219_test2.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250703180219_test2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:02:19.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250703175731_test2.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703175731_test2.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250703175731_test2.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250703175731_test2.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250703175731_test2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:57:31.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo\\appsettings.json",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\appsettings.json",
+              "RelativeToolTip": "Demo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T13:51:15.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SessionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Models\\SessionHelper.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\SessionHelper.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Models\\SessionHelper.cs",
+              "RelativeToolTip": "Demo\\Models\\SessionHelper.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:17:14.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250629134020_dddgf.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629134020_dddgf.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250629134020_dddgf.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629134020_dddgf.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250629134020_dddgf.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:40:20.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250629134529_third.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629134529_third.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250629134529_third.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629134529_third.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250629134529_third.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:45:29.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250629133852_dddgf.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629133852_dddgf.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250629133852_dddgf.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629133852_dddgf.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250629133852_dddgf.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:38:52.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250629133608_dddgf.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629133608_dddgf.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250629133608_dddgf.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629133608_dddgf.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250629133608_dddgf.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:36:08.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250629133537_dddg.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629133537_dddg.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250629133537_dddg.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629133537_dddg.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250629133537_dddg.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:35:38.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20250629133437_ddd.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629133437_ddd.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250629133437_ddd.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629133437_ddd.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250629133437_ddd.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:34:37.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20250629133121_Fourth.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629133121_Fourth.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250629133121_Fourth.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250629133121_Fourth.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250629133121_Fourth.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:31:21.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAACsTAAAAAAAAAABBwDQTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-28T12:46:27.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Demo.csproj",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Demo.csproj",
+              "RelativeDocumentMoniker": "Demo\\Demo.csproj",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Demo.csproj",
+              "RelativeToolTip": "Demo\\Demo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-28T17:45:26.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250622142234_second.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250622142234_second.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250622142234_second.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250622142234_second.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250622142234_second.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:22:34.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20250622142007_second.cs",
+              "DocumentMoniker": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250622142007_second.cs",
+              "RelativeDocumentMoniker": "Demo\\Migrations\\20250622142007_second.cs",
+              "ToolTip": "C:\\Users\\D.taiba\\source\\repos\\DemoSolution\\Demo\\Migrations\\20250622142007_second.cs",
+              "RelativeToolTip": "Demo\\Migrations\\20250622142007_second.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:20:07.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
