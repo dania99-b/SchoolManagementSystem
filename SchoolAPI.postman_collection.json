@@ -1,0 +1,486 @@
+{
+	"info": {
+		"_postman_id": "9bf310ac-394c-4f74-b1a9-6598d54778c2",
+		"name": "School management Api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "35989768",
+		"_collection_link": "https://crimson-crescent-456349.postman.co/workspace/ishow-team~6fafe368-002a-4fdc-a2dc-dd93a95560c8/collection/35989768-9bf310ac-394c-4f74-b1a9-6598d54778c2?action=share&source=collection_link&creator=35989768"
+	},
+	"item": [
+		{
+			"name": "student",
+			"item": [
+				{
+					"name": "submit assignment",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjEiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJkYW5pYTE5OTl0YUBnbWFpbC5jb20iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJzdHVkZW50IiwiZXhwIjoxNzUxNjYzNDUwLCJpc3MiOiJNeVNjaG9vbEFQSSIsImF1ZCI6Ik15U2Nob29sQ2xpZW50QXBwIn0.sI9NQ90R5oGYsho3nuiohzSyrKTvDaDCnMuK9923IHU",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "//while the student upload the assigment so the new row in grade table created so this is the submit\r\n{\"AssignmentId\":5}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7267/api/student/assignments/submit",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7267",
+							"path": [
+								"api",
+								"student",
+								"assignments",
+								"submit"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "teacher",
+			"item": [
+				{
+					"name": "grade assignment",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjQiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJ0ZWFjaGVyQGdtYWlsLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6InRlYWNoZXIiLCJleHAiOjE3NTE2NjM4MzIsImlzcyI6Ik15U2Nob29sQVBJIiwiYXVkIjoiTXlTY2hvb2xDbGllbnRBcHAifQ.gpOFn3sV8a9uFfEGnHcxpNagXEqHrw85E-Q7f4Jf8PU",
+									"type": "string"
+								}
+							]
+						},
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "// the teacher update the grade column in the grade table for specific grade row\r\n{\"id\":7,\r\n\"grade\":60}"
+						},
+						"url": {
+							"raw": "https://localhost:7267/api/teacher/addGrade",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7267",
+							"path": [
+								"api",
+								"teacher",
+								"addGrade"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "add assignment",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjQiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJ0ZWFjaGVyQGdtYWlsLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6InRlYWNoZXIiLCJleHAiOjE3NTE2NjIwMTIsImlzcyI6Ik15U2Nob29sQVBJIiwiYXVkIjoiTXlTY2hvb2xDbGllbnRBcHAifQ.HO9S4DLjI0zQHR2rWGIU2D-_pN8PaQIFNrtKYH7YUwE",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"assignment_name\":\"first assignment\",\r\n\"description\":\"this is the third assignment here\",\r\n\"course_id\":9,\r\n\"due_date\":\"2025-03-12\"}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7267/api/teacher/add_assignment",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7267",
+							"path": [
+								"api",
+								"teacher",
+								"add_assignment"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Authentication",
+			"item": [
+				{
+					"name": "register admin",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"name\":\"shahed\",\r\n\"email\":\"shahed@gmail.com\",\r\n\"password\":\"shahed123\"}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7267/api/user/register/admin",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7267",
+							"path": [
+								"api",
+								"user",
+								"register",
+								"admin"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "register student",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"name\":\"student\",\r\n\"email\":\"student1@gmail.com\",\r\n\"password\":\"student123\"}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7267/api/user/register/student",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7267",
+							"path": [
+								"api",
+								"user",
+								"register",
+								"student"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "register teacher",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"name\":\"teacher\",\r\n\"email\":\"teacher1@gmail.com\",\r\n\"password\":\"teacher123\"}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7267/api/user/register/teacher",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7267",
+							"path": [
+								"api",
+								"user",
+								"register",
+								"teacher"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "login",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"email\":\"teacher@gmail.com\",\r\n\"password\":\"teacher123\"}"
+						},
+						"url": {
+							"raw": "https://localhost:7267/api/user/login",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7267",
+							"path": [
+								"api",
+								"user",
+								"login"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "admin",
+			"item": [
+				{
+					"name": "enrollment student",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjMiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJhZG1pbjEyM0BnbWFpbC5jb20iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJhZG1pbiIsImV4cCI6MTc1MTY2MTc2NywiaXNzIjoiTXlTY2hvb2xBUEkiLCJhdWQiOiJNeVNjaG9vbENsaWVudEFwcCJ9.Ufc3IZqT2loJP2K1vaTY-osxpHf5OJ4G6Nq2Q2NQ3ec",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\"course_id\":7,\r\n\"student_id\":6}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7267/api/admin/enroll_student",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7267",
+							"path": [
+								"api",
+								"admin",
+								"enroll_student"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "courses",
+			"item": [
+				{
+					"name": "create course",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjIiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJhbGkxOTk4YXRAZ21haWwuY29tIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoidGVhY2hlciIsImV4cCI6MTc1MTY2MDc1NywiaXNzIjoiTXlTY2hvb2xBUEkiLCJhdWQiOiJNeVNjaG9vbENsaWVudEFwcCJ9.GEiQ8IXbyTyjGts6tgw8mBpak68ocz43kYpsVqDeYPQ",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "//only admin and teacher can create courses\r\n{\"course_name\":\"B2\"}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7267/api/course/create",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7267",
+							"path": [
+								"api",
+								"course",
+								"create"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "view courses",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjQiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJ0ZWFjaGVyQGdtYWlsLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6InRlYWNoZXIiLCJleHAiOjE3NTE2NTk3OTgsImlzcyI6Ik15U2Nob29sQVBJIiwiYXVkIjoiTXlTY2hvb2xDbGllbnRBcHAifQ.BNCAnFFcchFr_WuchFtn8a9zcBk5OBF-QW8RJkBD5xA",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "// teacher and admin can view all courses \r\n//students can view only their own courses\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7267/api/course",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7267",
+							"path": [
+								"api",
+								"course"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "update course",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjQiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJ0ZWFjaGVyQGdtYWlsLmNvbSIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6InRlYWNoZXIiLCJleHAiOjE3NTE2NjE2NTYsImlzcyI6Ik15U2Nob29sQVBJIiwiYXVkIjoiTXlTY2hvb2xDbGllbnRBcHAifQ.pjbPzTqC0Q2PZ0pN51qzb_EQF4px8nPL-YlXfwswpzs",
+									"type": "string"
+								}
+							]
+						},
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "//admin and teacher can update courses\r\n//teacher can only update their own courses\r\n{\"course_name\":\"A4\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7267/api/course/update/16",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7267",
+							"path": [
+								"api",
+								"course",
+								"update",
+								"16"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "delete course",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjIiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJhbGkxOTk4YXRAZ21haWwuY29tIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoidGVhY2hlciIsImV4cCI6MTc1MTY2MDc1NywiaXNzIjoiTXlTY2hvb2xBUEkiLCJhdWQiOiJNeVNjaG9vbENsaWVudEFwcCJ9.GEiQ8IXbyTyjGts6tgw8mBpak68ocz43kYpsVqDeYPQ",
+									"type": "string"
+								}
+							]
+						},
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "//admin and teacher can delete courses\r\n//teacher can only delete their own courses",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7267/api/course/delete/4",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7267",
+							"path": [
+								"api",
+								"course",
+								"delete",
+								"4"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
