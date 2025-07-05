@@ -18,16 +18,5 @@ namespace Demo.Controllers
             return Ok("API is running"); // Return data instead of view
 
         }
-
-        public IActionResult Privacy()
-        {
-            return Ok("API is running"); // Return data instead of view
-        }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return Ok("API is running"); // Return data instead of view
-        }
     }
 }
