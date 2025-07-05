@@ -50,11 +50,7 @@ Edit `appsettings.json`:
     "ConnectionStrings": {
       "DefaultConnection": "Server=localhost;Database=Demo;Trusted_Connection=True;MultipleActiveResultSets=true"
     }
-    "Jwt": {
-      "Key": "aVeryLongAndSuperSecretKeyThatNoOneShouldKnow123!",
-      "Issuer": "MySchoolAPI",
-      "Audience": "MySchoolClientApp",
-      "ExpireMinutes": 60 },
+    
 
 4. Apply Migrations
 
