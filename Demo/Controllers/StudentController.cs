@@ -57,7 +57,6 @@ namespace Demo.Controllers
             if (exists != null)
                 return BadRequest(new { message = "You have already submitted this assignment." });
 
-            // إنشاء التقديم
             var newSub = gradeRepository.create(submission, userId);
 
             return Ok(newSub);
