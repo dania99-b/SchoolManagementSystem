@@ -67,7 +67,7 @@ namespace Demo.Controllers
                 return NotFound(new { message = "Course not found." });
             }
 
-            // تتأكد إن الـ user_id الخاص بالكورس يساوي userId من التوكين
+           //هنا نتأكد بأن الاستاذ المسؤول عن هذ الكورس هو من يقوم بالتعديل او الادمن
             if (roleClaim != "admin"&&existingCourse.user_id != userId)
             {
                 return StatusCode(StatusCodes.Status403Forbidden, "You are not authorized to update this course.");
