@@ -38,7 +38,11 @@ namespace Demo.Controllers
             {
                 return NotFound(new { message = "Assignment not found." });
             }
+            if (assignment.DueDate != null && DateTime.Now > assignment.DueDate)
 
+            {
+                return BadRequest(new { message = "The submission deadline has passed. You cannot submit this assignment (the due_date < now )." });
+            }
           
             var enrolled = enrollmentRepository.GetAllEnrollments()
                              .Any(e => e.user_id == userId && e.course_id == assignment.course_id);
