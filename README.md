@@ -118,6 +118,9 @@ To explore API endpoints.
 
 ---
 
+[👉 Download Postman Collection](./SchoolAPI.postman_collection.json)
+
+---
 📫 Contact
 
 For questions or suggestions, please contact at dania1999ta@gmail.com
