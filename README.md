@@ -41,7 +41,6 @@ Make sure the following are installed:
 2. Clone the Repository
 
     git clone https://github.com/dania99-b/SchoolManagementSystem.git
-    cd SchoolManagementSystem
 
 3. Configure the Database
 
