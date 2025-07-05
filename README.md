@@ -59,9 +59,10 @@ Edit `appsettings.json`:
 4. Apply Migrations
 
     Add-Migration InitialCreate
+   
     Update-Database
 
-5. Run the Application
+6. Run the Application
 
 
 API should be available on `https://localhost:7267`
