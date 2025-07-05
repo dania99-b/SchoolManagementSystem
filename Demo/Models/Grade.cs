@@ -15,6 +15,7 @@ namespace Demo.Models
         public int assignment_id { get; set; }
 
         [ForeignKey(nameof(student_id))]
+        [JsonIgnore]
         public User user { get; set; }
 
         [ForeignKey("assignment_id")]
