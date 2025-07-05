@@ -32,14 +32,14 @@ namespace Demo.Controllers
             var userIdClaim = User.FindFirst(ClaimTypes.NameIdentifier);
             int userId = int.Parse(userIdClaim.Value);
 
-            // جلب الـ Assignment عشان نعرف course_id
+           
             var assignment = assignmentRepository.Get(submission.AssignmentId);
             if (assignment == null)
             {
                 return NotFound(new { message = "Assignment not found." });
             }
 
-            // التحقق إذا الطالب مسجل في الكورس
+          
             var enrolled = enrollmentRepository.GetAllEnrollments()
                              .Any(e => e.user_id == userId && e.course_id == assignment.course_id);
             if (!enrolled)
@@ -47,7 +47,7 @@ namespace Demo.Controllers
                 return BadRequest(new { message = "You are not enrolled in the course for this assignment." });
             }
 
-            // التحقق إذا الطالب سبق وقدم هذا الـ Assignment
+
             var exists = gradeRepository.GetAllGrade()
                           .FirstOrDefault(g => g.assignment_id == submission.AssignmentId && g.student_id == userId);
             if (exists != null)
