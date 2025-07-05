@@ -54,8 +54,7 @@ Edit `appsettings.json`:
       "Key": "aVeryLongAndSuperSecretKeyThatNoOneShouldKnow123!",
       "Issuer": "MySchoolAPI",
       "Audience": "MySchoolClientApp",
-      "ExpireMinutes": 60
-   },
+      "ExpireMinutes": 60 },
 
 4. Apply Migrations
 
